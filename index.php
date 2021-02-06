@@ -48,7 +48,7 @@ if(isMobileDevice()){ ?>
         <div id="popUpWindow">
             <div id="popUpBody">
                 <div id="popUpTitle">
-                    Köszönjük szépen, hogy résztvettél a mérésen!
+                    Köszönjük szépen, hogy részt vettél a mérésen!
                 </div>
                 <div id="popUpInstruction">
                     A letöltés gomb megnyomásával letöltheted a mérés eredményeit, majd kérünk küld el a következő e-mail címre: 
